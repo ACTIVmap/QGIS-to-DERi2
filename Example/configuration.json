@@ -1,0 +1,18 @@
+{
+	"title":"Test PoC",
+	"version":2.0,
+	"image":"map.png",
+	"shape":["square",40,40],
+	"interactions":[
+		{
+			"layer":"graphe",
+			"location":[1380,580],
+			"resource":"start_1_left"
+		},
+		{
+			"layer":"graphe",
+			"location":[1390, 680],
+			"resource":"start_2_left"
+		}
+	]
+}

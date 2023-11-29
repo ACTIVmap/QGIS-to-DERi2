@@ -1,0 +1,3123 @@
+{
+  "type": "FeatureCollection",
+  "generator": "overpass-turbo",
+  "copyright": "The data included in this document is from www.openstreetmap.org. The data is made available under ODbL.",
+  "timestamp": "2023-11-26T13:45:40Z",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1022393542",
+        "button_operated": "yes",
+        "crossing": "traffic_signals",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "mapillary": "556419982394122",
+        "source": "Bing",
+        "survey:date": "2018-08-09",
+        "tactile_paving": "no",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4606403,
+          43.5890223
+        ]
+      },
+      "id": "node/1022393542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1022494449",
+        "button_operated": "no",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "tactile_paving": "yes",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4607993,
+          43.587538
+        ]
+      },
+      "id": "node/1022494449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1022494458",
+        "crossing": "marked",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4600657,
+          43.5877658
+        ]
+      },
+      "id": "node/1022494458"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1022494470",
+        "button_operated": "yes",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "tactile_paving": "yes",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4616537,
+          43.5872767
+        ]
+      },
+      "id": "node/1022494470"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1022494657",
+        "button_operated": "no",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "tactile_paving": "yes",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4608312,
+          43.5878098
+        ]
+      },
+      "id": "node/1022494657"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093752699",
+        "addr:housenumber": "15",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4622278,
+          43.5871237
+        ]
+      },
+      "id": "node/1093752699"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093752718",
+        "addr:housenumber": "16",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4617409,
+          43.5871758
+        ]
+      },
+      "id": "node/1093752718"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093752838",
+        "addr:housenumber": "19",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4624853,
+          43.587022
+        ]
+      },
+      "id": "node/1093752838"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093752867",
+        "addr:housenumber": "12",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4615959,
+          43.5872321
+        ]
+      },
+      "id": "node/1093752867"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093752977",
+        "addr:housenumber": "6",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4609446,
+          43.5872731
+        ]
+      },
+      "id": "node/1093752977"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093753056",
+        "addr:housenumber": "9",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4619108,
+          43.5872505
+        ]
+      },
+      "id": "node/1093753056"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093753123",
+        "addr:housenumber": "28",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4624084,
+          43.5869031
+        ]
+      },
+      "id": "node/1093753123"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093753154",
+        "addr:housenumber": "2",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4610816,
+          43.5874354
+        ]
+      },
+      "id": "node/1093753154"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093753310",
+        "addr:housenumber": "13",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4621567,
+          43.5871518
+        ]
+      },
+      "id": "node/1093753310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093753348",
+        "addr:housenumber": "6",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4612602,
+          43.5865525
+        ]
+      },
+      "id": "node/1093753348"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093753383",
+        "addr:city": "Toulouse",
+        "addr:housenumber": "18",
+        "addr:postcode": "31400",
+        "addr:street": "Avenue Antoine de Saint-Exupéry",
+        "amenity": "restaurant",
+        "cuisine": "persian;middle_eastern",
+        "name": "Restaurant Safran",
+        "opening_hours": "Tu-Sa 11:45-14:15, 19:00-22:30; Su 11:45-15:00",
+        "opening_hours:signed": "no",
+        "phone": "+33562263198",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011",
+        "website": "https://www.societe-safran.com/"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4618377,
+          43.5871091
+        ]
+      },
+      "id": "node/1093753383"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093753486",
+        "addr:housenumber": "24",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4621784,
+          43.5869959
+        ]
+      },
+      "id": "node/1093753486"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093753535",
+        "addr:housenumber": "11",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4614149,
+          43.5867163
+        ]
+      },
+      "id": "node/1093753535"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093753605",
+        "addr:housenumber": "17",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4623776,
+          43.5870642
+        ]
+      },
+      "id": "node/1093753605"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093753627",
+        "addr:housenumber": "4",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4609105,
+          43.587105
+        ]
+      },
+      "id": "node/1093753627"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093753660",
+        "addr:housenumber": "14",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4616437,
+          43.5872137
+        ]
+      },
+      "id": "node/1093753660"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093753790",
+        "addr:housenumber": "21",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.462664,
+          43.5869496
+        ]
+      },
+      "id": "node/1093753790"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093753833",
+        "addr:housenumber": "10",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4615299,
+          43.5872581
+        ]
+      },
+      "id": "node/1093753833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093753912",
+        "addr:housenumber": "30",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4625999,
+          43.5868254
+        ]
+      },
+      "id": "node/1093753912"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093753954",
+        "addr:housenumber": "4",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.461281,
+          43.5873569
+        ]
+      },
+      "id": "node/1093753954"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093753993",
+        "addr:housenumber": "10",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4613931,
+          43.5862153
+        ]
+      },
+      "id": "node/1093753993"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093754043",
+        "addr:housenumber": "26",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.462264,
+          43.5869617
+        ]
+      },
+      "id": "node/1093754043"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093754074",
+        "addr:housenumber": "17",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4616029,
+          43.5869676
+        ]
+      },
+      "id": "node/1093754074"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093754150",
+        "addr:housenumber": "5",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.460997,
+          43.5868564
+        ]
+      },
+      "id": "node/1093754150"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093754208",
+        "addr:housenumber": "22",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4620892,
+          43.5870311
+        ]
+      },
+      "id": "node/1093754208"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093754248",
+        "addr:housenumber": "10",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4615023,
+          43.5867177
+        ]
+      },
+      "id": "node/1093754248"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093754310",
+        "addr:housenumber": "11",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4620681,
+          43.5871872
+        ]
+      },
+      "id": "node/1093754310"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093754325",
+        "addr:housenumber": "2",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4608569,
+          43.5873025
+        ]
+      },
+      "id": "node/1093754325"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1093754342",
+        "addr:housenumber": "20",
+        "source": "cadastre-dgi-fr source : Direction Générale des Impôts - Cadastre. Mise à jour : 2011"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4620032,
+          43.587066
+        ]
+      },
+      "id": "node/1093754342"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1152145834",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Crampel",
+        "public_transport": "platform",
+        "ref": "1750",
+        "ref:FR:Tisseo": "1750",
+        "ref:FR:aec31": "61202",
+        "shelter": "yes",
+        "source": "http://data.grandtoulouse.fr",
+        "source:date": "2012-04-04",
+        "source:ref:aec31": "Conseil Départemental de Haute-Garonne",
+        "source:ref:aec31:date": "2019-04-01",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.459526,
+          43.5878919
+        ]
+      },
+      "id": "node/1152145834"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1152145872",
+        "advertising": "poster_box",
+        "advertising:animated": "no",
+        "advertising:display_surface": "1.14*1.7",
+        "advertising:luminous": "yes",
+        "advertising:sides": "2",
+        "advertising:size": "1.34*2",
+        "advertising:support": "street_furniture:transit_shelter",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "name": "Crampel",
+        "public_transport": "platform",
+        "ref": "1751",
+        "ref:FR:Tisseo": "1751",
+        "ref:FR:aec31": "61201",
+        "shelter": "yes",
+        "source": "http://data.grandtoulouse.fr",
+        "source:date": "2012-04-04",
+        "source:ref:aec31": "Conseil Départemental de Haute-Garonne",
+        "source:ref:aec31:date": "2019-04-01",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4590284,
+          43.5882612
+        ]
+      },
+      "id": "node/1152145872"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1329894261",
+        "addr:housenumber": "1",
+        "addr:postcode": "31400",
+        "addr:street": "Avenue Antoine de Saint-Exupéry",
+        "amenity": "pharmacy",
+        "dispensing": "yes",
+        "name": "Pharmacie Pont des Demoiselles",
+        "opening_hours": "Mo-Fr 08:30-20:00; Sa 09:00-13:30",
+        "opening_hours:covid19": "Mo-Su 06:00-24:00",
+        "ref:FR:FINESS": "310015193",
+        "source": "Celtipharm - 10/2014"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4614094,
+          43.588012
+        ]
+      },
+      "id": "node/1329894261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1362768198",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Banque Populaire",
+        "brand:wikidata": "Q846647",
+        "brand:wikipedia": "fr:Banque populaire",
+        "name": "Banque Populaire",
+        "opening_hours": "Mo-Th 08:30-12:15; Fr 08:30-12:30",
+        "operator": "Banque Populaire"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4610327,
+          43.5874144
+        ]
+      },
+      "id": "node/1362768198"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1362768201",
+        "amenity": "bank",
+        "brand": "Banque Courtois",
+        "brand:wikidata": "Q2882894",
+        "brand:wikipedia": "fr:Banque Courtois",
+        "name": "Banque Courtois",
+        "operator": "Banque Courtois"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4613103,
+          43.5879788
+        ]
+      },
+      "id": "node/1362768201"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1362768205",
+        "name": "Audition des Demoiselles",
+        "opening_hours": "Mo,Tu,Th,Fr 09:00-12:00,14:00-18:00",
+        "shop": "hearing_aids"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4614464,
+          43.5872775
+        ]
+      },
+      "id": "node/1362768205"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1378764440",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "source": "BDOrtho IGN",
+        "tactile_paving": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4607901,
+          43.588979
+        ]
+      },
+      "id": "node/1378764440"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531444337",
+        "addr:housenumber": "114",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4586673,
+          43.5868231
+        ]
+      },
+      "id": "node/1531444337"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531444339",
+        "addr:housenumber": "116",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4588625,
+          43.5869035
+        ]
+      },
+      "id": "node/1531444339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531444341",
+        "addr:housenumber": "118",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4591217,
+          43.5869785
+        ]
+      },
+      "id": "node/1531444341"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531444343",
+        "addr:housenumber": "120",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.459662,
+          43.5872324
+        ]
+      },
+      "id": "node/1531444343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531444344",
+        "addr:housenumber": "122",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4598216,
+          43.5872976
+        ]
+      },
+      "id": "node/1531444344"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531444351",
+        "addr:housenumber": "124",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4599251,
+          43.5873396
+        ]
+      },
+      "id": "node/1531444351"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531444353",
+        "addr:housenumber": "126",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4600077,
+          43.5873735
+        ]
+      },
+      "id": "node/1531444353"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531444355",
+        "addr:housenumber": "128",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4601192,
+          43.58742
+        ]
+      },
+      "id": "node/1531444355"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531444628",
+        "addr:housenumber": "81",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4587387,
+          43.5871408
+        ]
+      },
+      "id": "node/1531444628"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531444630",
+        "addr:housenumber": "83",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4589065,
+          43.5871538
+        ]
+      },
+      "id": "node/1531444630"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531444631",
+        "addr:housenumber": "85",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4591171,
+          43.5872388
+        ]
+      },
+      "id": "node/1531444631"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531444635",
+        "addr:housenumber": "87",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4594544,
+          43.5873584
+        ]
+      },
+      "id": "node/1531444635"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531444653",
+        "addr:housenumber": "89",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4595809,
+          43.587425
+        ]
+      },
+      "id": "node/1531444653"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531555714",
+        "addr:housenumber": "65",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4587442,
+          43.5884083
+        ]
+      },
+      "id": "node/1531555714"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531555719",
+        "addr:housenumber": "65B",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4594758,
+          43.5880931
+        ]
+      },
+      "id": "node/1531555719"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531555728",
+        "addr:housenumber": "68",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4588629,
+          43.5881755
+        ]
+      },
+      "id": "node/1531555728"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531555733",
+        "addr:housenumber": "70",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4590364,
+          43.5880987
+        ]
+      },
+      "id": "node/1531555733"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531555738",
+        "addr:housenumber": "74",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4593123,
+          43.5879753
+        ]
+      },
+      "id": "node/1531555738"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531555763",
+        "addr:housenumber": "78",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4595057,
+          43.5878908
+        ]
+      },
+      "id": "node/1531555763"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1531555776",
+        "addr:housenumber": "80",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4596761,
+          43.5878094
+        ]
+      },
+      "id": "node/1531555776"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1535688527",
+        "addr:housenumber": "10",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4597581,
+          43.5864609
+        ]
+      },
+      "id": "node/1535688527"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1535688577",
+        "addr:housenumber": "11",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4595491,
+          43.5866746
+        ]
+      },
+      "id": "node/1535688577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1535688615",
+        "addr:housenumber": "12",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4596958,
+          43.5866076
+        ]
+      },
+      "id": "node/1535688615"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1535688652",
+        "addr:housenumber": "13",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.459525,
+          43.5867964
+        ]
+      },
+      "id": "node/1535688652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1535688688",
+        "addr:housenumber": "14",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4596625,
+          43.5867499
+        ]
+      },
+      "id": "node/1535688688"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1535688727",
+        "addr:housenumber": "15",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4594871,
+          43.5869528
+        ]
+      },
+      "id": "node/1535688727"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1535688783",
+        "addr:housenumber": "16",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4586388,
+          43.5862335
+        ]
+      },
+      "id": "node/1535688783"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1535688786",
+        "addr:housenumber": "16",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4596286,
+          43.5868972
+        ]
+      },
+      "id": "node/1535688786"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1535689704",
+        "addr:housenumber": "6",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4599457,
+          43.586285
+        ]
+      },
+      "id": "node/1535689704"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1535689766",
+        "addr:housenumber": "7",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4597706,
+          43.586224
+        ]
+      },
+      "id": "node/1535689766"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1535689801",
+        "addr:housenumber": "8",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4598715,
+          43.58635
+        ]
+      },
+      "id": "node/1535689801"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1535689844",
+        "addr:housenumber": "9",
+        "source": "GrandToulouse",
+        "source:date": "2011-11-06"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.459583,
+          43.5865462
+        ]
+      },
+      "id": "node/1535689844"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1718524873",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "yes",
+        "name": "Trois Fours",
+        "public_transport": "platform",
+        "ref": "7021",
+        "ref:FR:Tisseo": "7021",
+        "shelter": "yes",
+        "source": "http://data.grandtoulouse.fr",
+        "source:date": "2012-04-04",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.461472,
+          43.5874654
+        ]
+      },
+      "id": "node/1718524873"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1718524881",
+        "bench": "yes",
+        "bin": "yes",
+        "bus": "yes",
+        "highway": "bus_stop",
+        "lit": "no",
+        "name": "Trois Fours",
+        "public_transport": "platform",
+        "ref": "7020",
+        "ref:FR:Tisseo": "7020",
+        "shelter": "yes",
+        "source": "https://www.tisseo.fr",
+        "source:date": "2017-09-04",
+        "tactile_paving": "no",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.462033,
+          43.5870877
+        ]
+      },
+      "id": "node/1718524881"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1738372532",
+        "addr:city": "Toulouse",
+        "addr:housenumber": "30",
+        "addr:postcode": "31400",
+        "addr:street": "Avenue Antoine de Saint-Exupéry",
+        "amenity": "post_office",
+        "atm": "yes",
+        "change_machine": "yes",
+        "copy_facility": "yes",
+        "name": "Toulouse Pont Des Demoiselles",
+        "opening_hours": "Mo-Fr 09:00-12:00,13:30-17:30; Sa 09:00-12:00; PH off",
+        "operator": "La Poste",
+        "phone:FR": "3631",
+        "ref:FR:LaPoste": "05628A",
+        "source": "data.gouv.fr:LaPoste - 04/2012",
+        "stamping_machine": "yes",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4626783,
+          43.5867726
+        ]
+      },
+      "id": "node/1738372532"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1913229575",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4593272,
+          43.5880685
+        ]
+      },
+      "id": "node/1913229575"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/1913229577",
+        "crossing": "uncontrolled",
+        "highway": "crossing",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.458614,
+          43.588296
+        ]
+      },
+      "id": "node/1913229577"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016282450",
+        "addr:housenumber": "1",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4602394,
+          43.587365
+        ]
+      },
+      "id": "node/2016282450"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016282469",
+        "addr:housenumber": "2",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.460278,
+          43.5872134
+        ]
+      },
+      "id": "node/2016282469"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016282483",
+        "addr:housenumber": "3",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4603084,
+          43.5870935
+        ]
+      },
+      "id": "node/2016282483"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016282493",
+        "addr:housenumber": "4",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.460334,
+          43.5869906
+        ]
+      },
+      "id": "node/2016282493"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016282496",
+        "addr:housenumber": "5",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4601162,
+          43.5868432
+        ]
+      },
+      "id": "node/2016282496"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016282500",
+        "addr:housenumber": "5B",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4600626,
+          43.5869468
+        ]
+      },
+      "id": "node/2016282500"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016282503",
+        "addr:housenumber": "5T",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.460021,
+          43.5871235
+        ]
+      },
+      "id": "node/2016282503"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016282506",
+        "addr:housenumber": "6",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4603779,
+          43.5868381
+        ]
+      },
+      "id": "node/2016282506"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016282510",
+        "addr:housenumber": "6B",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4604544,
+          43.5866353
+        ]
+      },
+      "id": "node/2016282510"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016282513",
+        "addr:housenumber": "7",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4605488,
+          43.5864099
+        ]
+      },
+      "id": "node/2016282513"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016282514",
+        "addr:housenumber": "8",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.460612,
+          43.5862723
+        ]
+      },
+      "id": "node/2016282514"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016927520",
+        "addr:housenumber": "2",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4611528,
+          43.5881413
+        ]
+      },
+      "id": "node/2016927520"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016927542",
+        "addr:housenumber": "4",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4611429,
+          43.5882382
+        ]
+      },
+      "id": "node/2016927542"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2016927543",
+        "addr:housenumber": "8",
+        "entrance": "home",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4608745,
+          43.5890256
+        ]
+      },
+      "id": "node/2016927543"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2048179850",
+        "addr:housenumber": "1",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4617873,
+          43.5873897
+        ]
+      },
+      "id": "node/2048179850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2048179851",
+        "addr:housenumber": "11",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4614035,
+          43.5879932
+        ]
+      },
+      "id": "node/2048179851"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2048179852",
+        "addr:housenumber": "13",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4612969,
+          43.5879858
+        ]
+      },
+      "id": "node/2048179852"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2048179853",
+        "addr:housenumber": "3",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4617785,
+          43.5875434
+        ]
+      },
+      "id": "node/2048179853"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2048179854",
+        "addr:housenumber": "5",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4617287,
+          43.5877029
+        ]
+      },
+      "id": "node/2048179854"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2048179856",
+        "addr:housenumber": "7",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4616163,
+          43.5879977
+        ]
+      },
+      "id": "node/2048179856"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2048179858",
+        "addr:housenumber": "9",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.461544,
+          43.58799
+        ]
+      },
+      "id": "node/2048179858"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2085120756",
+        "addr:housenumber": "1",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.458946,
+          43.5873777
+        ]
+      },
+      "id": "node/2085120756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2085120762",
+        "addr:housenumber": "2",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4591156,
+          43.5873965
+        ]
+      },
+      "id": "node/2085120762"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2085120765",
+        "addr:housenumber": "3",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4587646,
+          43.5874572
+        ]
+      },
+      "id": "node/2085120765"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2085120767",
+        "addr:housenumber": "4",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4588948,
+          43.5874993
+        ]
+      },
+      "id": "node/2085120767"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2085120770",
+        "addr:housenumber": "4B",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4586949,
+          43.58759
+        ]
+      },
+      "id": "node/2085120770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2085120775",
+        "addr:housenumber": "5",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4585779,
+          43.5875395
+        ]
+      },
+      "id": "node/2085120775"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2085120780",
+        "addr:housenumber": "6",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4585508,
+          43.5876542
+        ]
+      },
+      "id": "node/2085120780"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2085884796",
+        "addr:housenumber": "1",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4624872,
+          43.5889709
+        ]
+      },
+      "id": "node/2085884796"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2087796884",
+        "addr:housenumber": "1",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4624827,
+          43.5885669
+        ]
+      },
+      "id": "node/2087796884"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2087796891",
+        "addr:housenumber": "2",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4624247,
+          43.5884827
+        ]
+      },
+      "id": "node/2087796891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2087796901",
+        "addr:housenumber": "3",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4626093,
+          43.5885882
+        ]
+      },
+      "id": "node/2087796901"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2087796915",
+        "addr:housenumber": "4",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4626032,
+          43.5885125
+        ]
+      },
+      "id": "node/2087796915"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2087796929",
+        "addr:housenumber": "5",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4627157,
+          43.5886061
+        ]
+      },
+      "id": "node/2087796929"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2089062826",
+        "addr:housenumber": "1",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4626755,
+          43.5877982
+        ]
+      },
+      "id": "node/2089062826"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2089062827",
+        "addr:housenumber": "10",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4621494,
+          43.588746
+        ]
+      },
+      "id": "node/2089062827"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2089062829",
+        "addr:housenumber": "11",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4620107,
+          43.5889753
+        ]
+      },
+      "id": "node/2089062829"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2089062843",
+        "addr:housenumber": "3",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4625987,
+          43.587932
+        ]
+      },
+      "id": "node/2089062843"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2089062850",
+        "addr:housenumber": "4",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4625453,
+          43.5880191
+        ]
+      },
+      "id": "node/2089062850"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2089062871",
+        "addr:housenumber": "5",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4624986,
+          43.5880972
+        ]
+      },
+      "id": "node/2089062871"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2089062891",
+        "addr:housenumber": "6",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4624413,
+          43.5881928
+        ]
+      },
+      "id": "node/2089062891"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2089062923",
+        "addr:housenumber": "7",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4623773,
+          43.5882969
+        ]
+      },
+      "id": "node/2089062923"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2089062933",
+        "addr:housenumber": "9",
+        "source": "ToulouseMetropole",
+        "source:date": "2012/10/04"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4623206,
+          43.5883878
+        ]
+      },
+      "id": "node/2089062933"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2104879431",
+        "brand": "Casino Supermarché",
+        "brand:wikidata": "Q89029184",
+        "name": "Casino Toulouse Demoiselles",
+        "opening_hours": "Mo-Fr 07:00-00:00; Tu-Fr 00:00-02:00; Sa 00:00-02:00, 07:00-00:00; Su 00:00-12:30",
+        "operator": "Casino",
+        "shop": "supermarket",
+        "website": "https://magasins.supercasino.fr/supermarche/toulouse-demoiselles/CS907",
+        "wheelchair": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4617195,
+          43.5878046
+        ]
+      },
+      "id": "node/2104879431"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2109955323",
+        "addr:housenumber": "11B",
+        "source": "ToulouseMetropole",
+        "source:date": "2012-11-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4614815,
+          43.5868012
+        ]
+      },
+      "id": "node/2109955323"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2109955335",
+        "addr:housenumber": "12",
+        "source": "ToulouseMetropole",
+        "source:date": "2012-11-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4615649,
+          43.586801
+        ]
+      },
+      "id": "node/2109955335"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2109955339",
+        "addr:housenumber": "14",
+        "source": "ToulouseMetropole",
+        "source:date": "2012-11-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.461655,
+          43.5869215
+        ]
+      },
+      "id": "node/2109955339"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2109955343",
+        "addr:housenumber": "14B",
+        "source": "ToulouseMetropole",
+        "source:date": "2012-11-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4616948,
+          43.586975
+        ]
+      },
+      "id": "node/2109955343"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2109955346",
+        "addr:housenumber": "15",
+        "source": "ToulouseMetropole",
+        "source:date": "2012-11-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4615349,
+          43.586873
+        ]
+      },
+      "id": "node/2109955346"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2109955350",
+        "addr:housenumber": "16",
+        "source": "ToulouseMetropole",
+        "source:date": "2012-11-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4617701,
+          43.5870758
+        ]
+      },
+      "id": "node/2109955350"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2109955354",
+        "addr:housenumber": "19",
+        "source": "ToulouseMetropole",
+        "source:date": "2012-11-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4616533,
+          43.5870268
+        ]
+      },
+      "id": "node/2109955354"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2109955377",
+        "addr:housenumber": "6",
+        "source": "ToulouseMetropole",
+        "source:date": "2012-11-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4615802,
+          43.5864188
+        ]
+      },
+      "id": "node/2109955377"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2109955381",
+        "addr:housenumber": "7",
+        "source": "ToulouseMetropole",
+        "source:date": "2012-11-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4611771,
+          43.5864337
+        ]
+      },
+      "id": "node/2109955381"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2109955385",
+        "addr:housenumber": "8",
+        "source": "ToulouseMetropole",
+        "source:date": "2012-11-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4614612,
+          43.5872856
+        ]
+      },
+      "id": "node/2109955385"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2110016898",
+        "addr:housenumber": "7",
+        "source": "ToulouseMetropole",
+        "source:date": "2012-11-29"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4618269,
+          43.5873068
+        ]
+      },
+      "id": "node/2110016898"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2192232444",
+        "crossing": "uncontrolled",
+        "highway": "crossing",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4595039,
+          43.5871832
+        ]
+      },
+      "id": "node/2192232444"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2192232445",
+        "crossing": "uncontrolled",
+        "crossing:island": "yes",
+        "highway": "crossing",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4593091,
+          43.5872653
+        ]
+      },
+      "id": "node/2192232445"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2192232446",
+        "button_operated": "no",
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "tactile_paving": "yes",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4602388,
+          43.5874946
+        ]
+      },
+      "id": "node/2192232446"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2192232447",
+        "button_operated": "no",
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "tactile_paving": "yes",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4600628,
+          43.5874985
+        ]
+      },
+      "id": "node/2192232447"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2192232448",
+        "button_operated": "no",
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "tactile_paving": "yes",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4599838,
+          43.587559
+        ]
+      },
+      "id": "node/2192232448"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2192232449",
+        "button_operated": "no",
+        "crossing": "traffic_signals",
+        "highway": "crossing",
+        "tactile_paving": "yes",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4599706,
+          43.5877025
+        ]
+      },
+      "id": "node/2192232449"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2367896422",
+        "button_operated": "yes",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "tactile_paving": "yes",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4616862,
+          43.5873239
+        ]
+      },
+      "id": "node/2367896422"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2367896439",
+        "button_operated": "no",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "tactile_paving": "yes",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4611435,
+          43.5875771
+        ]
+      },
+      "id": "node/2367896439"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/2430064652",
+        "button_operated": "no",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "tactile_paving": "yes",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4610372,
+          43.5875272
+        ]
+      },
+      "id": "node/2430064652"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/3303289089",
+        "crossing": "marked",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4598353,
+          43.5875171
+        ]
+      },
+      "id": "node/3303289089"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405034750",
+        "name": "Bob",
+        "opening_hours": "Mo 14:00-19:00; Tu-Sa 09:00-12:30,14:00-19:00",
+        "shop": "optician",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4611822,
+          43.5873631
+        ]
+      },
+      "id": "node/4405034750"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405034752",
+        "check_date:opening_hours": "2022-12-17",
+        "name": "Coiffure du monde",
+        "opening_hours": "Mo-Sa 09:00-19:00",
+        "operator": "Jean-Claude Aubry",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4618983,
+          43.5872912
+        ]
+      },
+      "id": "node/4405034752"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405034755",
+        "name": "Pomme d'api",
+        "shop": "convenience"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4620557,
+          43.5872329
+        ]
+      },
+      "id": "node/4405034755"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405034756",
+        "amenity": "bank",
+        "atm": "yes",
+        "brand": "Crédit Agricole",
+        "brand:wikidata": "Q590952",
+        "brand:wikipedia": "fr:Crédit agricole",
+        "name": "Crédit Agricole",
+        "opening_hours": "Tu 09:00-12:00; We-Sa 09:00-13:00",
+        "operator": "Crédit Agricole",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4621746,
+          43.5871921
+        ]
+      },
+      "id": "node/4405034756"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4405034757",
+        "addr:city": "Toulouse",
+        "addr:postcode": "31400",
+        "addr:street": "Avenue Antoine de Saint-Exupéry",
+        "brand": "Nicolas",
+        "brand:wikidata": "Q3340012",
+        "brand:wikipedia": "en:Nicolas (wine retailer)",
+        "name": "Nicolas",
+        "opening_hours": "Tu-Th 10:00-13:00,15:00-19:30; Fr,Sa 10:00-20:00",
+        "shop": "alcohol",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4620297,
+          43.5870114
+        ]
+      },
+      "id": "node/4405034757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4438018340",
+        "addr:city": "Toulouse",
+        "addr:postcode": "31400",
+        "addr:street": "Avenue Antoine de Saint-Exupéry",
+        "female": "yes",
+        "male": "yes",
+        "name": "Diloy's",
+        "opening_hours": "Tu-Fr 09:30-19:00; Sa 09:00-18:00",
+        "shop": "hairdresser",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4615128,
+          43.5872396
+        ]
+      },
+      "id": "node/4438018340"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4897772480",
+        "addr:city": "Toulouse",
+        "addr:housenumber": "120",
+        "addr:postcode": "31400",
+        "addr:street": "Avenue Crampel",
+        "amenity": "post_box",
+        "collection_times": "Mo-Fr 12:00; Sa 09:00",
+        "operator": "La Poste",
+        "operator:wikidata": "Q373724",
+        "post_box:type": "pillar",
+        "ref": "A5U0K9"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4596443,
+          43.5872361
+        ]
+      },
+      "id": "node/4897772480"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4960287961",
+        "addr:city": "Toulouse",
+        "amenity": "restaurant",
+        "cuisine": "steak_house",
+        "name": "Jambon 007",
+        "outdoor_seating": "no",
+        "source": "survey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4618214,
+          43.5873697
+        ]
+      },
+      "id": "node/4960287961"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/4960287962",
+        "addr:city": "Toulouse",
+        "addr:housenumber": "20",
+        "addr:postcode": "31400",
+        "addr:street": "Avenue Antoine de Saint-Exupéry",
+        "contact:city": "Toulouse",
+        "contact:housenumber": "20",
+        "contact:phone": "+33 5 34 31 00 00",
+        "contact:postcode": "31400",
+        "contact:street": "Avenue Saint-Exupéry",
+        "name": "Cabinet Bedin Immobilier (Toulouse Demoiselles)",
+        "office": "estate_agent",
+        "opening_hours": "Mo-Sa 09:00-12:00, 14:00-19:00",
+        "opening_hours:signed": "no",
+        "ref:FR:SIRET": "32784354600554",
+        "website": "https://www.cabinet-bedin.com/agence-immobiliere/toulouse-demoiselles"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4619818,
+          43.5870388
+        ]
+      },
+      "id": "node/4960287962"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6960476545",
+        "name": "Deux Chavanne",
+        "opening_hours": "Tu-Sa 09:30-12:45,16:15-19:30",
+        "phone": "+33561140079",
+        "shop": "cheese"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4624865,
+          43.586852
+        ]
+      },
+      "id": "node/6960476545"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6960476546",
+        "check_date:opening_hours": "2022-05-08",
+        "name": "Lilie Prune",
+        "opening_hours": "Tu-Sa 09:00-19:00",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4623846,
+          43.5868928
+        ]
+      },
+      "id": "node/6960476546"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6960476547",
+        "amenity": "restaurant",
+        "cuisine": "pizza",
+        "name": "Oh Fada",
+        "opening_hours:signed": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4625107,
+          43.5870327
+        ]
+      },
+      "id": "node/6960476547"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6960476548",
+        "name": "Tabac",
+        "opening_hours": "Mo-Fr 08:00-20:00; Sa 09:30-13:00",
+        "shop": "tobacco"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4624463,
+          43.5870511
+        ]
+      },
+      "id": "node/6960476548"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6960476549",
+        "name": "Coiffeur Barbier",
+        "opening_hours": "Mo-Sa 10:00-19:00",
+        "shop": "hairdresser"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4623739,
+          43.5870881
+        ]
+      },
+      "id": "node/6960476549"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6960476550",
+        "amenity": "fast_food",
+        "check_date:opening_hours": "2022-05-08",
+        "diet:vegetarian": "yes",
+        "name": "Le boss",
+        "opening_hours:signed": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4622505,
+          43.5869394
+        ]
+      },
+      "id": "node/6960476550"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/6960476551",
+        "name": "credo",
+        "opening_hours": "Tu-Fr 06:30-19:30; Sa 07:30-13:00,16:00-19:00; Su 07:30-13:00",
+        "shop": "bakery"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4619139,
+          43.5870851
+        ]
+      },
+      "id": "node/6960476551"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7330252613",
+        "amenity": "community_centre",
+        "leisure": "pitch",
+        "name": "Salle Pont des Demoiselles",
+        "sport": "multi"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.461869,
+          43.5873613
+        ]
+      },
+      "id": "node/7330252613"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7483087563",
+        "button_operated": "no",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "tactile_paving": "yes",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4609525,
+          43.5877787
+        ]
+      },
+      "id": "node/7483087563"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7483087564",
+        "button_operated": "no",
+        "crossing": "traffic_signals",
+        "crossing:island": "no",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "tactile_paving": "yes",
+        "traffic_signals:sound": "no",
+        "traffic_signals:vibration": "no"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4610369,
+          43.587769
+        ]
+      },
+      "id": "node/7483087564"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7804721770",
+        "crossing": "uncontrolled",
+        "crossing_ref": "zebra",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4617957,
+          43.5874565
+        ]
+      },
+      "id": "node/7804721770"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/7804721787",
+        "crossing": "marked",
+        "crossing_ref": "zebra",
+        "highway": "crossing",
+        "source": "Toulouse Orthophotoplan 2015",
+        "tactile_paving": "yes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4618057,
+          43.5871627
+        ]
+      },
+      "id": "node/7804721787"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9891583920",
+        "name": "Douce heure",
+        "shop": "massage"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.460021,
+          43.5873617
+        ]
+      },
+      "id": "node/9891583920"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/9891583922",
+        "name": "Cestan",
+        "shop": "window_blind"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4598375,
+          43.5872921
+        ]
+      },
+      "id": "node/9891583922"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10028917833",
+        "name": "Cocotte",
+        "shop": "mobile_phone"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4620997,
+          43.5872131
+        ]
+      },
+      "id": "node/10028917833"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/10588644757",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.462267,
+          43.5884868
+        ]
+      },
+      "id": "node/10588644757"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11261335250",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4602133,
+          43.5875344
+        ]
+      },
+      "id": "node/11261335250"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11261335256",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.460014,
+          43.5875807
+        ]
+      },
+      "id": "node/11261335256"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11261335257",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4600925,
+          43.5875144
+        ]
+      },
+      "id": "node/11261335257"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11261335261",
+        "crossing": "traffic_signals",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4599998,
+          43.5876827
+        ]
+      },
+      "id": "node/11261335261"
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "@id": "node/11261335262",
+        "highway": "crossing"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          1.4601184,
+          43.5877589
+        ]
+      },
+      "id": "node/11261335262"
+    }
+  ]
+}

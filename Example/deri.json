@@ -1,0 +1,158 @@
+{
+  "title": "Test PoC",
+  "version": 2.0,
+  "imagePath": "map.png",
+  "areas": {
+    "area-0": {
+      "geometry": {
+        "shape": "square",
+        "x": 83.13253012048193,
+        "y": 56.09284332688588,
+        "width": 2.4096385542168677,
+        "height": 3.8684719535783367
+      },
+      "interactions": {
+        "automatic": "start_1_left"
+      }
+    },
+    "area-1": {
+      "geometry": {
+        "shape": "square",
+        "x": 83.73493975903614,
+        "y": 65.76402321083172,
+        "width": 2.4096385542168677,
+        "height": 3.8684719535783367
+      },
+      "interactions": {
+        "automatic": "start_2_left"
+      }
+    }
+  },
+  "Resource": {
+    "node/1022494657": {
+      "type": "tts",
+      "source": "Passage pi\u00e9ton sans bandes d'\u00e9veil de vigilance.",
+      "interactions": {
+        "swipe-down": "start_1_left",
+        "swipe-right": "node/7483087563"
+      }
+    },
+    "end_1_left": {
+      "type": "tts",
+      "source": "Passage pi\u00e9ton sans bandes d'\u00e9veil de vigilance.",
+      "interactions": {}
+    },
+    "start_1_left": {
+      "type": "tts",
+      "source": "Passage pi\u00e9ton sans bandes d'\u00e9veil de vigilance.",
+      "interactions": {
+        "swipe-up": "node/1022494657"
+      }
+    },
+    "node/1362768201": {
+      "type": "tts",
+      "source": "Passage pi\u00e9ton sans bandes d'\u00e9veil de vigilance.",
+      "interactions": {}
+    },
+    "node/2016927520": {
+      "type": "tts",
+      "source": "Passage pi\u00e9ton sans bandes d'\u00e9veil de vigilance.",
+      "interactions": {}
+    },
+    "node/7483087564": {
+      "type": "tts",
+      "source": "Passage pi\u00e9ton sans bandes d'\u00e9veil de vigilance.",
+      "interactions": {
+        "swipe-down": "start_1_right"
+      }
+    },
+    "end_1_right": {
+      "type": "tts",
+      "source": "Passage pi\u00e9ton sans bandes d'\u00e9veil de vigilance.",
+      "interactions": {}
+    },
+    "start_1_right": {
+      "type": "tts",
+      "source": "Passage pi\u00e9ton sans bandes d'\u00e9veil de vigilance.",
+      "interactions": {
+        "swipe-up": "node/7483087564"
+      }
+    },
+    "node/1718524873": {
+      "type": "tts",
+      "source": "Passage pi\u00e9ton sans bandes d'\u00e9veil de vigilance.",
+      "interactions": {}
+    },
+    "node/2367896439": {
+      "type": "tts",
+      "source": "Passage pi\u00e9ton sans bandes d'\u00e9veil de vigilance.",
+      "interactions": {
+        "swipe-down": "start_2_left",
+        "swipe-right": "node/2430064652"
+      }
+    },
+    "end_2_left": {
+      "type": "tts",
+      "source": "Passage pi\u00e9ton sans bandes d'\u00e9veil de vigilance.",
+      "interactions": {}
+    },
+    "start_2_left": {
+      "type": "tts",
+      "source": "Passage pi\u00e9ton sans bandes d'\u00e9veil de vigilance.",
+      "interactions": {
+        "swipe-up": "node/2367896439"
+      }
+    },
+    "node/1362768198": {
+      "type": "tts",
+      "source": "Passage pi\u00e9ton sans bandes d'\u00e9veil de vigilance.",
+      "interactions": {}
+    },
+    "node/1362768205": {
+      "type": "tts",
+      "source": "Passage pi\u00e9ton sans bandes d'\u00e9veil de vigilance.",
+      "interactions": {}
+    },
+    "node/2430064652": {
+      "type": "tts",
+      "source": "Passage pi\u00e9ton sans bandes d'\u00e9veil de vigilance.",
+      "interactions": {
+        "swipe-down": "start_2_right",
+        "swipe-left": "node/2367896439"
+      }
+    },
+    "node/4405034750": {
+      "type": "tts",
+      "source": "Passage pi\u00e9ton sans bandes d'\u00e9veil de vigilance.",
+      "interactions": {}
+    },
+    "end_2_right": {
+      "type": "tts",
+      "source": "Passage pi\u00e9ton sans bandes d'\u00e9veil de vigilance.",
+      "interactions": {}
+    },
+    "start_2_right": {
+      "type": "tts",
+      "source": "Passage pi\u00e9ton sans bandes d'\u00e9veil de vigilance.",
+      "interactions": {
+        "swipe-up": "node/2430064652"
+      }
+    },
+    "node/7483087563": {
+      "type": "tts",
+      "source": "Passage pi\u00e9ton sans bandes d'\u00e9veil de vigilance.",
+      "interactions": {
+        "swipe-left": "node/1022494657"
+      }
+    }
+  },
+  "layers": {
+    "graphe": {
+      "label": "graphe",
+      "areas": [
+        "area-0",
+        "area-1"
+      ]
+    }
+  }
+}
