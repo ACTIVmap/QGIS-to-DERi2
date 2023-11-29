@@ -1,0 +1,18 @@
+{
+	"title":"Titre",
+	"version":2.0,
+	"image":"map.png",
+	"shape":["square",width,height],
+	"interactions":[
+		{
+			"layer":"layer",
+			"location":[x,y],
+			"resource":"id_resource"
+		},
+		{
+			"layer":"layer",
+			"location":[x2,y2],
+			"resource":"id_resource2"
+		}
+	]
+}
