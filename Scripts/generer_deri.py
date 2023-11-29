@@ -98,7 +98,7 @@ with edit(nodes):
 
 import os
 import json
-from PIL import Image
+from PIL.Image as Image
 
 # Path to the DERi files
 path = "/Users/jeremy/Developpement/PoC/"
